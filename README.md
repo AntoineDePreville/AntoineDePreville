@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntoineDePreville
 - 👀 I’m interested in ... Data science
-- 🌱 I’m currently learning ... Machine learning
+- 🌱 I’m currently learning ... algorithms
 - 💞️ I’m looking to collaborate on ... Data science projects
 - 📫 How to reach me ... via my profile
 
